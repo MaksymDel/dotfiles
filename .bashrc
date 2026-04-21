@@ -16,7 +16,7 @@ export PATH="$HOME/.npm-global/bin:$PATH"
 eval "$(codex completion bash)"
 
 # tmux shortcuts
-alias tn="tmux new -s"
+alias tc="tmux new -s"
 alias ta="tmux attach -t"
 alias tls="tmux ls"
 alias tk="tmux kill-session -t"
